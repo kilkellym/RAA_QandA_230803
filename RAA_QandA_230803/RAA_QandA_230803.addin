@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_QandA_230803 - Command 1</Text>
+    <Description>Some description for RAA_QandA_230803</Description>
+    <Assembly>RAA_QandA_230803.dll</Assembly>
+    <FullClassName>RAA_QandA_230803.Command1</FullClassName>
+    <ClientId>41664863-b39f-4ac2-826d-184a0f2bb3ec</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_QandA_230803 - Command 2</Text>
+    <Description>Some description for RAA_QandA_230803</Description>
+    <Assembly>RAA_QandA_230803.dll</Assembly>
+    <FullClassName>RAA_QandA_230803.Command2</FullClassName>
+    <ClientId>d662da5a-9a74-49e7-9c5c-eabe2b6ab257</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_QandA_230803</Name>
+    <Assembly>RAA_QandA_230803.dll</Assembly>
+    <FullClassName>RAA_QandA_230803.App</FullClassName>
+    <ClientId>2d2206e5-cc70-4fd5-8481-c37a474e3b8a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
